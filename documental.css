@@ -1,0 +1,16 @@
+body{
+	background-color: purple;
+	text-align: center;
+
+}
+h1{
+	background-color: green;
+	color: white;
+	text-shadow: 5px 5px 5px blue;
+}
+video{
+	border: solid 3px;
+	border-color: purple;
+	width: 50%;
+	height: 50%;
+}

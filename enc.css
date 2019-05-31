@@ -1,0 +1,26 @@
+#parte1 {
+	margin: 0;
+	color: red;
+	padding: 2px;
+}
+#tabla1{
+	border: none;
+	width:100%; 
+	background-color: purple;
+}
+
+#imagen1{
+	width: 55%;
+	height: 55%;
+	float: center;
+}
+#titulo1 {
+ 	color: green;
+	font-size: 50px;
+ 	font-family: fantasy;
+ 	text-align: center;
+ 	text-shadow: 5px 5px 10px black;
+}	
+audio{
+	float: center;
+}

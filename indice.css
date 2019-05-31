@@ -1,0 +1,102 @@
+body{
+	background-color:purple; 
+	margin: 0;
+}
+h1{
+	text-align: center;
+	color: white;
+	background-color:black;
+	border-radius: 5px;
+	border: dotted;
+	border-color: black;
+	padding: 5px;
+}
+ul{
+	list-style-type: square;
+}
+
+#introduccion:link {
+  background-color: black;
+  color: white;
+  text-decoration: none;
+}
+#introduccion:visited {
+  background-color: cyan;
+  text-decoration: none;
+}
+#introduccion:hover {
+  background-color: lightgreen;
+  text-decoration: none;
+}
+#introduccion:active {
+  background-color: hotpink;
+  text-decoration: none;
+} 
+
+
+#especies:link, #especies:visited {
+  background-color: black;
+  color: white;
+  padding: 2px;
+  text-align: left; 
+  text-decoration: none;
+  display: inline-flex;
+}
+#especies:hover, #especies:active {
+  background-color: red;
+  text-decoration: none;
+}
+
+
+#documental:link {
+  background-color: black;
+  color:white;
+  text-decoration: none;
+}
+#documental:visited {
+  background-color: red;
+  text-decoration: none;
+}
+#documental:hover {
+  background-color: blue;
+  text-decoration: none;
+}
+
+#documental:active {
+  background-color: pink;
+  text-decoration: none;
+} 
+
+#practicas:link {
+  background-color: black;
+  color: white;
+  text-decoration: none;
+}
+
+#practicas:visited {
+  background-color: green;
+  text-decoration: none;
+}
+
+#practicas:hover {
+  background-color: violet;
+  text-decoration: none;
+}
+
+#practicas:active {
+  background-color: blue;
+  text-decoration: none;
+} 
+#comentarios:link, #comentarios:visited {
+  background-color: black;
+  color: white;
+  padding: 2px;
+  text-align: left; 
+  text-decoration: none;
+  display: inline-block;
+}
+
+#comentarios:hover, #comentarios:active {
+  background-color: salmon;
+  text-decoration: none;
+}

@@ -1,0 +1,35 @@
+body{
+	background-color: purple;
+	text-align: center;
+	font-family: verdana;
+}
+h1{
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+img{
+	height: 50%;
+	width: 50%;
+}
+h2{
+	background-color: yellow;
+	color: black;
+	border: 2px solid white;	
+}
+#p1{
+	background-color: yellow;
+	color: black;
+	border: 3px solid white;
+}
+#p2{
+	background-color: yellow;
+	color: black;
+	border: 3px solid white;
+
+}
+#p3{
+	background-color: yellow;
+	color: black;
+	border: 3px solid white;
+}
